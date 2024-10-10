@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anuragstark
-Skilled IT professional with expertise in Cloud Computing and DevOps. Experienced in AWS, Azure, and Google Cloud, with
+Skilled IT professional with expertise in Cloud Computing and DevOps. Experienced in AWS and Azure, with
 a focus on CI/CD, Docker, Kubernetes, Bash Scripting and Terraform. Proven ability to design, deploy, and manage scalable
 cloud infrastructure. Strong problem-solving skills and dedication to continuous improvement. 
 - 💞️ I’m looking to collaborate on ...
