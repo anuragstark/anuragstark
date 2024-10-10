@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anuragstark
-- 👀 I’m interested in Python, Java 
-- 🌱 I’m currently learning Javascript
+Skilled IT professional with expertise in Cloud Computing and DevOps. Experienced in AWS, Azure, and Google Cloud, with
+a focus on CI/CD, Docker, Kubernetes, Bash Scripting and Terraform. Proven ability to design, deploy, and manage scalable
+cloud infrastructure. Strong problem-solving skills and dedication to continuous improvement. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Anuragchauhan536@gmail.com
 
