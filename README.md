@@ -3,7 +3,7 @@
 
 🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 💻 Software Developer | 🧠 Lifelong Learner
 
-📍 New Delhi, IN  
+📍 Dehradun, IN  
 📫 Reach me at: [anuragchauhan536@gmail.com](mailto:anuragchauhan536@gmail.com)
 
 ---
