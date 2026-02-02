@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Anurag Chauhan
 
-🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 💻 Software Developer | 🧠 Lifelong Learner
+🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🧠 Lifelong Learner
 
 📍 Dehradun, IN  
 📫 Reach me at: [anuragchauhan536@gmail.com](mailto:anuragchauhan536@gmail.com)
