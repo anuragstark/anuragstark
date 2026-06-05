@@ -46,12 +46,8 @@
 ### GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/anuragstark">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuragstark&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Anurag's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuragstark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragstark&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragstark&show_icons=true&theme=transparent&hide_border=true&v=2" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragstark&layout=compact&theme=transparent&hide_border=true&v=2" alt="langs" />
 </p>
 
 ---
