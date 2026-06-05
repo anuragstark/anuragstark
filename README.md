@@ -16,9 +16,11 @@
 ---
 
 ### About Me
-- Based in **New Delhi, IN**
+- 💼 **DevOps & MlOps Engineer** 
+- 📍 Based in **Dehradun, IN**
 - Specialized in **Cloud Infrastructure, Container Orchestration, and CI/CD Automation**.
 - Currently focusing on deep-diving into **Advanced Kubernetes, ArgoCD GitOps, & Infrastructure as Code**.
+- How to reach me: **anuragchauhan536@gmail.com**
 
 ---
 
@@ -69,12 +71,28 @@
 
 ### Certifications
 
+**Google Cloud Skills Boost**
+- Build and Secure Networks in Google Cloud
+- Deploy and Manage Cloud Environments with Google Cloud
+- Deploy to Kubernetes in Google Cloud
+- Engineer Data in Google Cloud
+- Integrate with Machine Learning APIs
+- Perform Foundational Data, ML, and AI Tasks
+- Set Up and Configure a Cloud Environment
+
+**Cloud & DevOps**
 - Microsoft Azure Fundamentals (AZ-900)
-- TCS National Qualifier Test (Python: 80%)
-- Google Cloud Skills Boost - 30 Days Program
 - Azure DevOps Fundamentals (Udemy)
 - AWS EC2 Certification
+
+**Other Achievements**
 - ISRO Remote Sensing & Geospatial Technologies
+- TCS National Qualifier Test (Python: 80%)
+
+---
+
+### Volunteer Experience
+- **Technical Head** @ Aequitas 2024 (Punjab University Law & Cultural Fest)
 
 <!--
 anuragstark/anuragstark is a special repository because its `README.md` (this file) appears on your GitHub profile.
