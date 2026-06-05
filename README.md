@@ -16,9 +16,9 @@
 ---
 
 ### About Me
-- Based in **Dehradun, IN**
+- Based in **New Delhi, IN**
 - Specialized in **Cloud Infrastructure, Container Orchestration, and CI/CD Automation**.
-- Currently focusing on deep-diving into **Advanced Kubernetes & Infrastructure as Code**.
+- Currently focusing on deep-diving into **Advanced Kubernetes, ArgoCD GitOps, & Infrastructure as Code**.
 - How to reach me: **anuragchauhan536@gmail.com**
 
 ---
@@ -29,10 +29,10 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **DevOps, Containers & CI/CD**  
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Monitoring & Observability**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 
 **Programming & Scripting**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -53,14 +53,14 @@
 
 ### Featured Projects
 
-#### [Wisecow Kubernetes Deployment](https://github.com/anuragstark/wisecow.git)
-> Deployed a scalable, secure application using **AWS EKS**, Docker, Terraform, and Ansible. Implemented CI/CD with GitHub Actions and secured the app using NGINX Ingress and TLS.
+#### [ROI Investment Platform](https://github.com/anuragstark/Roi-project.git)
+> Architected a production Blue/Green zero-downtime deployment pipeline. Provisioned the AWS infrastructure (EC2, RDS, S3, VPC) using **Terraform**, encrypted secrets with SOPS, and implemented a full **PLG Observability Stack (Prometheus, Grafana, Loki, Tempo)**.
 
-#### [AWS DevOps CI/CD Pipeline](https://github.com/anuragstark/CloudPulse-Automated-Deployment-CICD.git)
-> Built an automated CI/CD pipeline with **AWS ECR & Elastic Beanstalk**, integrated GitHub Actions, and fully automated Docker image builds and deployments.
+#### [Wisecow K8s GitOps Platform](https://github.com/anuragstark/wisecow.git)
+> Deployed a containerized application to AWS EKS with **Helm charts and ArgoCD GitOps**, reducing manual deployment effort by 90%. Configured Cert-Manager TLS, NGINX Ingress, and Horizontal Pod Autoscalers. 
 
-#### [PHP Application Pipeline (Archived)](https://github.com/anuragstark/yii2-devops-assessment.git)
-> Containerized a Yii2 PHP app using **Docker Swarm** and Ansible on AWS EC2. Secured with NGINX, integrated GitHub Actions, and performed security scanning with Trivy.
+#### [TeleDoc Telemedicine Platform](https://github.com/anuragstark/TeleDoc-Myshowcase.git)
+> Designed a high-availability AWS architecture using ALB, Auto Scaling Groups, and RDS. Automated server provisioning with **Ansible** and built a CI/CD pipeline with GitHub Actions for automated Docker builds to ECR.
 
 ---
 
