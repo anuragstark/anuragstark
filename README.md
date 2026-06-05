@@ -16,7 +16,7 @@
 ---
 
 ### About Me
-- 💼 **DevOps & MlOps Engineer** 
+- 💼 **DevOps & MLOps Engineer** 
 - 📍 Based in **Dehradun, IN**
 - Specialized in **Cloud Infrastructure, Container Orchestration, and CI/CD Automation**.
 - Currently focusing on deep-diving into **Advanced Kubernetes, ArgoCD GitOps, & Infrastructure as Code**.
