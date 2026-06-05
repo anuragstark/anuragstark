@@ -19,7 +19,6 @@
 - Based in **New Delhi, IN**
 - Specialized in **Cloud Infrastructure, Container Orchestration, and CI/CD Automation**.
 - Currently focusing on deep-diving into **Advanced Kubernetes, ArgoCD GitOps, & Infrastructure as Code**.
-- How to reach me: **anuragchauhan536@gmail.com**
 
 ---
 
@@ -45,8 +44,12 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragstark&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED" alt="Anurag's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragstark&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED" alt="Top Languages" />
+  <a href="https://github.com/anuragstark">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuragstark&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Anurag's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuragstark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragstark&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
