@@ -46,8 +46,12 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragstark&show_icons=true&theme=transparent&hide_border=true&v=2" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragstark&layout=compact&theme=transparent&hide_border=true&v=2" alt="langs" />
+  <a href="https://github.com/anuragstark">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuragstark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=4" alt="Anurag's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/anuragstark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragstark&layout=compact&theme=tokyonight&hide_border=true&v=4" alt="Top Languages" width="40%" />
+  </a>
 </p>
 
 ---
