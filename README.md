@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anurag Chauhan</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast | Self-Directed Learner</h3>
+<h3 align="center">DevOps & MLOps Engineer | Cloud Enthusiast | Self-Directed Learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuragstark/" target="_blank">
@@ -57,11 +57,14 @@
 #### [ROI Investment Platform](https://github.com/anuragstark/Roi-project.git)
 > Architected a production Blue/Green zero-downtime deployment pipeline. Provisioned the AWS infrastructure (EC2, RDS, S3, VPC) using **Terraform**, encrypted secrets with SOPS, and implemented a full **PLG Observability Stack (Prometheus, Grafana, Loki, Tempo)**.
 
-#### [Wisecow K8s GitOps Platform](https://github.com/anuragstark/wisecow.git)
-> Deployed a containerized application to AWS EKS with **Helm charts and ArgoCD GitOps**, reducing manual deployment effort by 90%. Configured Cert-Manager TLS, NGINX Ingress, and Horizontal Pod Autoscalers. 
+#### [Wisecow K8s GitOps Platform](https://github.com/anuragstark/wisecow-Python) · [![Live](https://img.shields.io/badge/Live-checkmypro.online-brightgreen)](https://checkmypro.online/)
+> Deployed a Python Flask microservice to AWS EKS with **Helm charts, ArgoCD GitOps, and Argo Rollouts Canary deployments** (20% traffic split with Prometheus health verification). Integrated **Trivy + Checkov** DevSecOps scanning, **kube-prometheus-stack** observability, cert-manager TLS, and HPA autoscaling (3-10 pods).
 
-#### [TeleDoc Telemedicine Platform](https://github.com/anuragstark/TeleDoc-Myshowcase.git)
-> Designed a high-availability AWS architecture using ALB, Auto Scaling Groups, and RDS. Automated server provisioning with **Ansible** and built a CI/CD pipeline with GitHub Actions for automated Docker builds to ECR.
+#### Enterprise AI Platform
+> Built a self-healing ML pipeline with automated **drift detection and model retraining** via GitHub Actions. Implemented multi-cloud **LLM routing (Bedrock + Vertex AI + Ollama)** with RAG-powered document Q&A. Deployed serverless infrastructure using **App Runner, ECR, RDS, and S3** with Terraform IaC.
+
+#### [TeleDoc Telemedicine Platform](https://github.com/anuragstark/teledoc-aws-infra) · [![Live](https://img.shields.io/badge/Live-teledoc.co.in-brightgreen)](https://teledoc.co.in)
+> Designed an immutable infrastructure with **ALB, Auto Scaling Groups (Instance Refresh)**, and automated server provisioning with **Ansible**. Configured **Prometheus with EC2 Service Discovery + Blackbox Exporter** for auto-scaling monitoring and migrated all secrets to **AWS SSM Parameter Store**.
 
 ---
 
