@@ -58,7 +58,7 @@
 
 ### Featured Projects
 
-#### [ROI Investment Platform](https://github.com/anuragstark/Roi-project.git)
+#### [ROI Investment Platform](https://github.com/anuragstark/Roi-project.git) · [![Live](https://img.shields.io/badge/Live-paisatest.online/-brightgreen)](https://paisatest.online/)
 > Architected a production Blue/Green zero-downtime deployment pipeline. Provisioned the AWS infrastructure (EC2, RDS, S3, VPC) using **Terraform**, encrypted secrets with SOPS, and implemented a full **PLG Observability Stack (Prometheus, Grafana, Loki, Tempo)**.
 
 #### [Wisecow K8s GitOps Platform](https://github.com/anuragstark/wisecow-Python) · [![Live](https://img.shields.io/badge/Live-checkmypro.online-brightgreen)](https://checkmypro.online/)
